@@ -1,9 +1,6 @@
 # MEAN_Stack_App
 Web app of store with users and login system, written in MEAN Stack technology.
 
-![1](https://user-images.githubusercontent.com/44413511/80693825-e1d84100-8ad3-11ea-9432-e9bfbad4e2c6.PNG)
-
-_______________________________________________________________
 
 ![2](https://user-images.githubusercontent.com/44413511/80694002-2fed4480-8ad4-11ea-8e4d-dcfc26303491.PNG)
 
@@ -13,11 +10,11 @@ _______________________________________________________________
 
 _______________________________________________________________
 
-![4](https://user-images.githubusercontent.com/44413511/80694144-5f03b600-8ad4-11ea-8d5f-86e2faf39066.PNG)
+![1](https://user-images.githubusercontent.com/44413511/80693825-e1d84100-8ad3-11ea-9432-e9bfbad4e2c6.PNG)
 
 _______________________________________________________________
 
-![5](https://user-images.githubusercontent.com/44413511/80694183-6f1b9580-8ad4-11ea-838f-5b580d14e453.PNG)
+![4](https://user-images.githubusercontent.com/44413511/80694144-5f03b600-8ad4-11ea-8d5f-86e2faf39066.PNG)
 
 _______________________________________________________________
 
