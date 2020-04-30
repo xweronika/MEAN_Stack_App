@@ -3,7 +3,7 @@ const jwt = require('jsonwebtoken');
 const router = express.Router();
 const User = require('../models/user');
 const mongoose = require('mongoose');
-const db = "mongodb+srv://uservishwas:pwvishwas@eventsdb-jcvbi.mongodb.net/test?retryWrites=true&w=majority";
+const db = "mongodb+srv://[...]:[...]@eventsdb-jcvbi.mongodb.net/test?retryWrites=true&w=majority";
 
 
 
