@@ -1,5 +1,5 @@
 # MEAN_Stack_App
-Web app of store with users and login system, written in MEAN Stack technology.
+Web app written in MEAN Stack technology.
 
 
 ![2](https://user-images.githubusercontent.com/44413511/80694002-2fed4480-8ad4-11ea-8e4d-dcfc26303491.PNG)
