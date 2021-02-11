@@ -1,4 +1,4 @@
-# MEAN_Stack_App
+# Auth_System_App
 Web app written in MEAN Stack technology.
 
 
