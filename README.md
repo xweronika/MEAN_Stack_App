@@ -1,5 +1,5 @@
 # Auth_System
-Web app written in MEAN Stack technology.
+Web app with authentication system created in MEAN Stack technology.
 
 
 ![2](https://user-images.githubusercontent.com/44413511/80694002-2fed4480-8ad4-11ea-8e4d-dcfc26303491.PNG)
